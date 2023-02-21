@@ -1,6 +1,6 @@
 # IRIS-FLASK
 
-# IRIS_FLASK_2.0
+# IRIS_FLASK
   It is increment to the previous iris_flask project
   
 # USAGE INSTRUCTIONS
@@ -15,6 +15,6 @@
   
 # Screenshots :
 
-<img src = 'https://github.com/106121071/IRIS_FLASK_2.0/blob/main/screenshots/1.png?raw=true' />
-<img src = 'https://github.com/106121071/IRIS_FLASK_2.0/blob/main/screenshots/2.png?raw=true' />
+<img src = 'https://github.com/106121071/IRIS_FLASK/blob/main/screenshots/1.png?raw=true' />
+<img src = 'https://github.com/106121071/IRIS_FLASK/blob/main/screenshots/2.png?raw=true' />
 
